@@ -11,4 +11,4 @@ int main(){
     In_ThongtinSV(Hoten,mssv);
     return 0;
 }
-//Lay chua code bruh vcl
+//Lay chua code bruh vcl ,conflict ti
